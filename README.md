@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Budi Setiawan
-- 👀 I’m interested in Personal Computer
 - 🌱 I’m currently learning C++
 
 <!---
